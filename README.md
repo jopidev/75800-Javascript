@@ -1,6 +1,6 @@
 # Carrito de Compras Interactivo
 
-Este es un proyecto de un carrito de compras interactivo realizado con HTML, CSS y JavaScript. El proyecto utiliza la API de EscuelaJS para obtener productos y permitir a los usuarios agregar o eliminar productos del carrito. Los datos se almacenan de manera persistente usando `localStorage` para garantizar que los productos permanezcan en el carrito incluso si el usuario recarga la página.
+Este es un proyecto de un carrito de compras interactivo realizado con HTML, CSS y JavaScript. El proyecto utiliza la API de Platzi para obtener productos y permitir a los usuarios agregar o eliminar productos del carrito. Los datos se almacenan de manera persistente usando `localStorage` para garantizar que los productos permanezcan en el carrito incluso si el usuario recarga la página.
 
 ## Características
 
